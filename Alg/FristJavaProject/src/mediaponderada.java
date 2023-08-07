@@ -1,4 +1,4 @@
-public class App {
+public class mediaponderada {
 
     public static void main(String[] args) throws Exception {
         float n1, n2, n3, n4, media;
