@@ -12,6 +12,6 @@ public class mediaponderada {
 
         System.out.println(media);
 
-
+         
     }
 }
