@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "src_ee83b4d4"
+        },
+        {
+            "type": "java",
+            "name": "cmimparmat",
+            "request": "launch",
+            "mainClass": "cmimparmat",
+            "projectName": "src_ee83b4d4"
+        },
+        {
+            "type": "java",
+            "name": "learningmethods",
+            "request": "launch",
+            "mainClass": "learningmethods",
+            "projectName": "src_ee83b4d4"
+        },
+        {
+            "type": "java",
+            "name": "mediaponderada",
+            "request": "launch",
+            "mainClass": "mediaponderada",
+            "projectName": "src_ee83b4d4"
+        },
+        {
+            "type": "java",
+            "name": "multilista",
+            "request": "launch",
+            "mainClass": "multilista",
+            "projectName": "src_ee83b4d4"
+        },
+        {
+            "type": "java",
+            "name": "preprova",
+            "request": "launch",
+            "mainClass": "preprova",
+            "projectName": "src_ee83b4d4"
+        },
+        {
+            "type": "java",
+            "name": "tempo",
+            "request": "launch",
+            "mainClass": "tempo",
+            "projectName": "src_ee83b4d4"
+        }
+    ]
+}
