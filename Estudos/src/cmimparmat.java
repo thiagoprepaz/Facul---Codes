@@ -56,7 +56,7 @@ public class cmimparmat {
             for (int i = 0; i < numRows; i++) {
                 for (int j = 0; j < numCols; j++) {
                     if (matriz[i][j] % 2 == 0) {
-                        pares[i * numCols + j] = matriz[i][j];
+                        pares[i] = matriz[i][j];
                         smt = smt + pares[i];
                     }
                 }
