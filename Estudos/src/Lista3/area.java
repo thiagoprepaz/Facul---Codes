@@ -26,7 +26,7 @@ public class area {
         int c = input.nextInt();
         int area = (c*l);
         System.out.println("O terreno " +l+"x"+c + " tem "+ area + " metros quadrados");
-
+        
     }
 
 }
